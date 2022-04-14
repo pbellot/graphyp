@@ -8,6 +8,8 @@ The process is then as follows. First, we divide all the logs into blocks of ses
 
 Once this is done, it remains to determine for each session its type according to the associated values of N, K and α/ β. Some thresholds make it possible to identify the tendencies towards the min/max values of N and K and towards ±infinity or stability (1) for α/β (for example, we can choose to consider K as type Kmax if K > Kmax – (Kmax – Kmin) x z with 0 < z < 1). Lastly, the sequence of types gives us the routes of search.
 
+The last part of the notebook is based on: [A sample code for the bipartite hypergraph algorithm](https://github.com/OtmaneAzeroualDZHW/Creating_bipartite_graph)
+
 ### Authors of Graphyp : 
 - Renaud Fabre, Dionysian Economics Laboratory (LED), Université Paris 8, Saint-Denis, France
 - Otmane Azeroual, German Centre for Higher Education Research and Science Studies (DZHW), Berlin, Germany
