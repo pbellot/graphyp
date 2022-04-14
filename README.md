@@ -10,7 +10,7 @@ Once this is done, it remains to determine for each session its type according t
 
 ### Authors of Graphyp : 
 - Renaud Fabre, Dionysian Economics Laboratory (LED), Université Paris 8, Saint-Denis, France
-- Otmane Azeroual, German Center for Higher Education Research and Science Studies (DZHW), Berlin, Germany
+- Otmane Azeroual, German Centre for Higher Education Research and Science Studies (DZHW), Berlin, Germany
 - Patrice Bellot, Aix Marseille Université, CNRS (LIS), Marseille, France
 - Joachim Schöpfel, Univ. Lille, ULR 4073 - GERiiCO - Groupe d’Études et de Recherche Interdisciplinaire en Information et Communication, 59000 Lille, France
 - Daniel Egret, Université Paris Sciences & Lettres, 75006 Paris, France
