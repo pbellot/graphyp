@@ -17,6 +17,8 @@ The last part of the notebook is based on: [A sample code for the bipartite hype
 - Joachim Schöpfel, Univ. Lille, ULR 4073 - GERiiCO - Groupe d’Études et de Recherche Interdisciplinaire en Information et Communication, 59000 Lille, France
 - Daniel Egret, Université Paris Sciences & Lettres, 75006 Paris, France
 
-### Reference:
+### References:
 
 Renaud Fabre, Otmane Azeroual, Patrice Bellot, Joachim Schöpfel, Daniel Egret. _A Scientific Knowledge Graph with Community Detection and Routes of Search. Testing "GRAPHYP" as a Toolkit for Resilient Upgrade of Scholarly Content._ 2021. ⟨hal-03365118⟩ https://hal.archives-ouvertes.fr/hal-03365118/document
+
+Fabre, R., Azeroual, O., Bellot, P., Schöpfel, J., & Egret, D. (2022). Retrieving Adversarial Cliques in Cognitive Communities: A New Conceptual Framework for Scientific Knowledge Graphs. Future internet, 14(9), 262. https://www.mdpi.com/1999-5903/14/9/262/pdf
